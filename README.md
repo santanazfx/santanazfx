@@ -1,4 +1,7 @@
-## Opa, eu sou o Santana
+## Olá, eu sou o Gustavo Futuro Desenvolvedor Java & Aspirante em Cibersegurança
+
+Sou estudante de Desenvolvimento de Sistemas, movido por resolver problemas complexos e encarar novos desafios técnicos. Atualmente, foco meus estudos no ecossistema **Java** e estou expandindo meus conhecimentos para ingressar no universo da **Cibersegurança**, unindo desenvolvimento seguro e análise de vulnerabilidades.
+
 
 Bem-vindo ao meu perfil do GitHub.
 
