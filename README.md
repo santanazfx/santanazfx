@@ -9,9 +9,10 @@ Bem-vindo ao meu perfil do GitHub.
   <a href="https://github.com/santanazfx">
     <img height="165" src="https://github-stats-extended.vercel.app/api?username=santanazfx&show_icons=true&include_all_commits=true&count_private=true&custom_title=Santana's%20GitHub%20Stats&bg_color=0d1117&title_color=00a6ff&text_color=c9d1d9&icon_color=00a6ff&border_color=00ff99&ring_color=00a6ff" alt="GitHub stats de santanazfx">
   </a>
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=santanazfx&background=0D1117&border=00FF99&stroke=00FF99&ring=00FF99&fire=00A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=00FF99&hide_border=false" alt="GitHub streak de santanazfx">
-  </a>
+    <a href="https://git.io/streak-stats">
+  <img height="165" src="https://streak-stats.demolab.com/?user=santanazfx&background=0D1117&border=00FF99&stroke=00FF99&ring=00FF99&fire=00A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=00FF99&hide_border=false" alt="GitHub streak de santanazfx">
+</a>
+
 </div>
 
 <div align="center">
